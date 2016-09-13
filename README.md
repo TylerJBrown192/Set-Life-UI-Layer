@@ -1,7 +1,14 @@
-# Set-life-ui-layer
+# Set Life (UI Layer)
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This is the repository for the Ember.js UI Layer of the Set Life application, eventually located at [SetLife.live](#).
+
+Set Life is an application for users who love all things music - concerts, bands, albums, reviews, everything.
+
+Eventually this README will detail the technologies used for the front end of the application as well as the features it showcases.
+
+You can find the API layer of Set Life [in this repository](https://github.com/TylerJBrown192/Set-Life-API-Layer).
+
+---------------------------------------------------
 
 ## Prerequisites
 
@@ -15,19 +22,15 @@ You will need the following things properly installed on your computer.
 
 ## Installation
 
-* `git clone <repository-url>` this repository
-* `cd set-life-ui-layer`
+* `git clone https://github.com/TylerJBrown192/Set-Life-UI-Layer.git`
+* `cd Set-Life-UI-Layer`
 * `npm install`
 * `bower install`
 
-## Running / Development
+## Running The Application
 
 * `ember serve`
 * Visit your app at [http://localhost:4200](http://localhost:4200).
-
-### Code Generators
-
-Make use of the many generators for code, try `ember help generate` for more details
 
 ### Running Tests
 
@@ -38,10 +41,6 @@ Make use of the many generators for code, try `ember help generate` for more det
 
 * `ember build` (development)
 * `ember build --environment production` (production)
-
-### Deploying
-
-Specify what it takes to deploy your app.
 
 ## Further Reading / Useful Links
 
